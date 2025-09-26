@@ -45,7 +45,6 @@ My broader interests include explainability, interpretability, accountability, a
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bovaristEliza&show_icons=true&theme=purple&hide=stars&bg_color=00000000" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bovaristEliza&theme=purple&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bovaristEliza&theme=purple&layout=compact&bg_color=00000000" alt="Languages" height="180"/>
 </p>
 
