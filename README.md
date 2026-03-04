@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=220&section=header&text=Michela%20Vespa&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Probabilistic%20Declarative%20Process%20Mining%20%7C%20AI%20Ethics%20%26%20Explainability&descAlignY=58&descSize=14&descColor=ccccff" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a0080,50:7c3aed,100:c084fc&height=220&section=header&text=Michela%20Vespa&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Probabilistic%20Declarative%20Process%20Mining%20%7C%20AI%20Ethics%20%26%20Explainability&descAlignY=58&descSize=14&descColor=e9d5ff" alt="header" />
 </p>
 
 <br/>
@@ -60,17 +60,17 @@ I work at the intersection of **process mining**, **probabilistic reasoning**, a
 ## ✦ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bovaristEliza&show_icons=true&hide=stars&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=a855f7&text_color=e2e8f0&ring_color=7c3aed" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bovaristEliza&show_icons=true&hide=stars&hide_border=true&title_color=c084fc&icon_color=a855f7&text_color=555555&ring_color=7c3aed" height="165" alt="GitHub Stats"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bovaristEliza&layout=compact&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=e2e8f0" height="165" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bovaristEliza&layout=compact&hide_border=true&title_color=c084fc&text_color=555555" height="165" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bovaristEliza&hide_border=true&background=0d1117&ring=7c3aed&fire=c084fc&currStreakLabel=c084fc&sideLabels=e2e8f0&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=6b7280" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bovaristEliza&hide_border=true&ring=7c3aed&fire=c084fc&currStreakLabel=c084fc&sideLabels=555555&currStreakNum=333333&sideNums=333333&dates=999999" alt="GitHub Streak"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=100&section=footer&fontSize=14&fontColor=ccccff&text=Thursday%2C%20what%20a%20concept!&fontAlignY=65&animation=fadeIn" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,50:7c3aed,100:4a0080&height=100&section=footer&fontSize=14&fontColor=ffffff&text=Thursday%2C%20what%20a%20concept!&fontAlignY=65&animation=fadeIn" alt="footer"/>
 </p>
