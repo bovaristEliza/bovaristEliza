@@ -1,59 +1,76 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8e44ad&height=200&section=header&text=Michela%20Vespa&fontSize=50&fontColor=fff" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=220&section=header&text=Michela%20Vespa&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Probabilistic%20Declarative%20Process%20Mining%20%7C%20AI%20Ethics%20%26%20Explainability&descAlignY=58&descSize=14&descColor=ccccff" alt="header" />
 </p>
 
-## About Me
+<br/>
 
-I research **probabilistic declarative process mining**, combining logic and probability to analyze processes under uncertainty.  
-My broader interests include explainability, interpretability, accountability, and ethics in AI.
-
----
-
-## Tech Stack
-
-<span>
-  <img height="32" src="https://img.shields.io/badge/Prolog-8722a8?style=for-the-badge" alt="Prolog"/>
-  <img height="32" src="https://img.shields.io/badge/Python-6f42c1?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img height="32" src="https://img.shields.io/badge/Declarative%20Languages-9b59b6?style=for-the-badge" alt="Declarative Languages"/>
-  <img height="32" src="https://img.shields.io/badge/ML%20Libraries-8e44ad?style=for-the-badge" alt="ML Libraries"/>
-</span>
+<p align="center">
+  <a href="https://www.linkedin.com/in/michela-vespa-317317227/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=bovaristEliza&style=flat-square&color=8e44ad&label=profile+views" alt="Profile views" />
+</p>
 
 ---
 
-## Projects
+## ✦ Research
 
-<div align="center">
+> *Bridging logic, probability, and process analysis to understand how real-world processes behave under uncertainty.*
 
-<a href="https://github.com/bovaristEliza/lpad_compl">
-  <img src="https://img.shields.io/badge/lpad_compl-PLP%20Compliance%20Checking-7B2FF2?style=for-the-badge" alt="lpad_compl"/>
-</a>
-<a href="https://github.com/bovaristEliza/AIXIA2024">
-  <img src="https://img.shields.io/badge/AIXIA2024-Logic%20Probabilistic%20Declarative%20PM-8e44ad?style=for-the-badge" alt="AIXIA2024"/>
-</a>
-<a href="https://github.com/bovaristEliza/AIME2025">
-  <img src="https://img.shields.io/badge/AIME2025-Interpretable%20Medical%20AI-CE6FFF?style=for-the-badge" alt="AIME2025"/>
-</a>
-<a href="https://github.com/bovaristEliza/pascal_cchecking">
-  <img src="https://img.shields.io/badge/pascal_cchecking-Process%20Constraint%20Mining-6f42c1?style=for-the-badge" alt="pascal_cchecking"/>
-</a>
-<a href="https://github.com/FraResca/flower_itadata2">
-  <img src="https://img.shields.io/badge/flower_itadata2-Federated%20Learning-9b59b6?style=for-the-badge" alt="flower_itadata2"/>
-</a>
-</div>
+I work at the intersection of **process mining**, **probabilistic reasoning**, and **declarative modelling**. My research centres on developing frameworks that can check compliance and mine constraints from event logs — even when the world is noisy, incomplete, or inherently stochastic.
+
+**Core topics:**
+
+- 🔬 **Probabilistic Declarative Process Mining** — constraint mining and compliance checking under uncertainty
+- 🧩 **Logic Programming & PLP** — using LPAD and similar formalisms to model process behaviour
+- 🩺 **Interpretable Medical AI** — building transparent, accountable AI for clinical decision-support
+- 🌐 **Federated Learning** — privacy-preserving distributed model training
+- ⚖️ **AI Ethics & Explainability** — accountability and interpretability as first-class design goals
+
+---
+
+## ✦ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Prolog-6a0dad?style=flat-square&logoColor=white" alt="Prolog" height="26"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="26"/>
+  <img src="https://img.shields.io/badge/ProbLog-7B2FF2?style=flat-square&logoColor=white" alt="ProbLog" height="26"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" height="26"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" height="26"/>
+  <img src="https://img.shields.io/badge/Flower-5CB3FF?style=flat-square&logoColor=white" alt="Flower" height="26"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" height="26"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" height="26"/>
+</p>
+
+---
+
+## ✦ Projects
+
+| Project | Description | Topic |
+|---|---|---|
+| [**lpad\_compl**](https://github.com/bovaristEliza/lpad_compl) | Compliance checking via Labelled Probabilistic Logic Programs | `PLP` `Process Mining` `Compliance` |
+| [**AIXIA2024**](https://github.com/bovaristEliza/AIXIA2024) | Logic-based probabilistic declarative process mining | `Declarative PM` `Logic` `Uncertainty` |
+| [**AIME2025**](https://github.com/bovaristEliza/AIME2025) | Interpretable AI for medical decision support | `Medical AI` `Explainability` `Healthcare` |
+| [**pascal\_cchecking**](https://github.com/bovaristEliza/pascal_cchecking) | Process constraint mining with PASCAL | `Constraint Mining` `Event Logs` |
+| [**flower\_itadata2**](https://github.com/FraResca/flower_itadata2) | Federated learning experiments with Flower | `Federated Learning` `Privacy` `ML` |
+
+---
+
+## ✦ GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bovaristEliza&show_icons=true&hide=stars&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=a855f7&text_color=e2e8f0&ring_color=7c3aed" height="165" alt="GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bovaristEliza&layout=compact&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=e2e8f0" height="165" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bovaristEliza&hide_border=true&background=0d1117&ring=7c3aed&fire=c084fc&currStreakLabel=c084fc&sideLabels=e2e8f0&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=6b7280" alt="GitHub Streak"/>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bovaristEliza&show_icons=true&theme=purple&hide=stars&bg_color=00000000" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bovaristEliza&theme=purple&layout=compact&bg_color=00000000" alt="Languages" height="180"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=100&section=footer&fontSize=14&fontColor=ccccff&text=Thursday%2C%20what%20a%20concept!&fontAlignY=65&animation=fadeIn" alt="footer"/>
 </p>
-
----
-
-## Connect
-
-[<img src="https://img.shields.io/badge/LinkedIn-7B2FF2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>](https://www.linkedin.com/in/michela-vespa-317317227/)
-
----
-
-<p align="center"><i>Thursday, what a concept!</i></p>
