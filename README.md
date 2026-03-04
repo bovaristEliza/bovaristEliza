@@ -14,14 +14,13 @@
 
 > *Bridging logic, probability, and process analysis to understand how real-world processes behave under uncertainty.*
 
-I work at the intersection of **process mining**, **probabilistic reasoning**, and **declarative modelling**. My research centres on developing frameworks that can check compliance and mine constraints from event logs — even when the world is noisy, incomplete, or inherently stochastic.
+I work at the intersection of **process mining**, **probabilistic reasoning**, and **declarative modelling**. My research centres on developing frameworks that can check compliance and mine constraints from event logs, even when the world is noisy, incomplete, or inherently stochastic.
 
 **Core topics:**
 
 - 🔬 **Probabilistic Declarative Process Mining** — constraint mining and compliance checking under uncertainty
 - 🧩 **Logic Programming &amp; PLP** — using LPAD and similar formalisms to model process behaviour
 - 🩺 **Interpretable Medical AI** — building transparent, accountable AI for clinical decision-support
-- 🌐 **Federated Learning** — privacy-preserving distributed model training
 - ⚖️ **AI Ethics &amp; Explainability** — accountability and interpretability as first-class design goals
 
 ---
