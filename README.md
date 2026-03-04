@@ -35,10 +35,9 @@ I work at the intersection of **process mining**, **probabilistic reasoning**, a
 <p>
   <img src="https://img.shields.io/badge/Prolog-6a0dad?style=flat-square&logoColor=white" alt="Prolog" height="26"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="26"/>
-  <img src="https://img.shields.io/badge/ProbLog-7B2FF2?style=flat-square&logoColor=white" alt="ProbLog" height="26"/>
+  <img src="https://img.shields.io/badge/ProbLog-7B2FF2?style=flat-square&logoColor=white" alt="PLP" height="26"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" height="26"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" height="26"/>
-  <img src="https://img.shields.io/badge/Flower-5CB3FF?style=flat-square&logoColor=white" alt="Flower" height="26"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" height="26"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" height="26"/>
 </p>
