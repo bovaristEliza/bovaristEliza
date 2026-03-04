@@ -1,9 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:4a0080,50:7c3aed,100:c084fc&amp;height=220&amp;section=header&amp;text=Michela%20Vespa&amp;fontSize=58&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Probabilistic%20Declarative%20Process%20Mining%20%7C%20AI%20Ethics%20%26%20Explainability&amp;descAlignY=58&amp;descSize=14&amp;descColor=e9d5ff" alt="header" />
 </p>
-
 <br/>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/michela-vespa-317317227/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
@@ -11,8 +9,6 @@
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=bovaristEliza&amp;style=flat-square&amp;color=8e44ad&amp;label=profile+views" alt="Profile views" />
 </p>
-
----
 
 ## ✦ Research
 
