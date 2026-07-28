@@ -8,7 +8,7 @@
 <img src="https://komarev.com/ghpvc/?username=bovaristEliza&style=for-the-badge&color=7c3aed&label=VISITORS&labelColor=1a1b26" alt="views"/>
 
 <h3><em>Uncertainty,</em></h3>
-
+<img src="russian-doll.gif" width="400" alt="concept"/>
 </div>
 
 ---
