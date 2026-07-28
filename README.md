@@ -1,68 +1,94 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8e44ad&height=200&section=header&text=Michela%20Vespa&fontSize=50&fontColor=fff" alt="header" />
-</p>
-<br/>
-<p align="center">
-  <a href="https://www.linkedin.com/in/michela-vespa-317317227/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=bovaristEliza&amp;style=flat-square&amp;color=8e44ad&amp;label=profile+views" alt="Profile views" />
-</p>
+<div align="center">
 
-## ✦ Research
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=600&height=60&lines=Michela+Vespa;PhD+%40+University+of+Ferrara;process+mining+%E2%88%A9+probability+%E2%88%A9+logic" alt="typing header"/>
+
+<h3><em>Uncertainty,</em></h3>
+
+[![Russian Doll GIF](https://some-site.com/actual-file.gif)](https://tenor.com/view/russian-doll-thursday-gif-21010657)
+
+<a href="https://ai.unife.it/team/michela-vespa-msc"><img src="https://img.shields.io/badge/AI@UniFE-1a1b26?style=for-the-badge&labelColor=1a1b26&color=7c3aed" alt="lab"/></a>
+<a href="https://orcid.org/0009-0004-4350-8151"><img src="https://img.shields.io/badge/ORCID-1a1b26?style=for-the-badge&logo=orcid&logoColor=A6E22E&color=1a1b26" alt="orcid"/></a>
+<a href="https://www.linkedin.com/in/michela-vespa-317317227/"><img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=58a6ff&color=1a1b26" alt="linkedin"/></a>
+<img src="https://komarev.com/ghpvc/?username=bovaristEliza&style=for-the-badge&color=7c3aed&label=VISITORS&labelColor=1a1b26" alt="views"/>
+
+</div>
+
+---
+
+```prolog
+role(michela, phd_student, university_of_ferrara).
+group(michela, ai_unife).
+
+works_on(michela, probabilistic_declarative_process_mining).
+works_on(michela, logic_programming).
+works_on(michela, interpretable_medical_ai).
+```
+
+## `~/research`
 
 > *Bridging logic, probability, and process analysis to understand how real-world processes behave under uncertainty.*
 
-I work at the intersection of **process mining**, **probabilistic reasoning**, and **declarative modelling**. My research centres on developing frameworks that can check compliance and mine constraints from event logs, even when the world is noisy, incomplete, or inherently stochastic.
+I work where **process mining**, **probabilistic reasoning**, and **declarative modelling** meet, or don't.
 
-**Core topics:**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=A855F7&vCenter=true&width=435&height=50&lines=Logs+lie." alt="Logs lie." />
 
-- 🔬 **Probabilistic Declarative Process Mining** — constraint mining and compliance checking under uncertainty
-- 🧩 **Logic Programming &amp; PLP** — using LPAD and similar formalisms to model process behaviour
-- 🩺 **Interpretable Medical AI** — building transparent, accountable AI for clinical decision-support
-- ⚖️ **AI Ethics &amp; Explainability** — accountability and interpretability as first-class design goals
+## `~/stack`
 
----
+<div align="center">
 
-## ✦ Tech Stack
+**reasoning** &nbsp;
+![SWI-Prolog](https://img.shields.io/badge/SWI--Prolog-1a1b26?style=flat-square&logo=swift&logoColor=e97627)
+![ProbLog](https://img.shields.io/badge/ProbLog-7c3aed?style=flat-square&logoColor=white)
+![cplint](https://img.shields.io/badge/cplint-7c3aed?style=flat-square&logoColor=white)
 
-<p>
-  <img src="https://img.shields.io/badge/Prolog-6a0dad?style=flat-square&amp;logoColor=white" alt="Prolog" height="26"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" height="26"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&amp;logo=scikitlearn&amp;logoColor=white" alt="scikit-learn" height="26"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&amp;logo=jupyter&amp;logoColor=white" alt="Jupyter" height="26"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" height="26"/>
-</p>
+**process mining** &nbsp;
+![PM4Py](https://img.shields.io/badge/PM4Py-1a1b26?style=flat-square&logoColor=white&color=00acc1)
+![Declare4Py](https://img.shields.io/badge/Declare4Py-1a1b26?style=flat-square&logoColor=white&color=00acc1)
 
----
+**declarative modelling** &nbsp;
+![DECLARE](https://img.shields.io/badge/DECLARE-1a1b26?style=flat-square&logoColor=white&color=e97627)
+![MINERful](https://img.shields.io/badge/MINERful-1a1b26?style=flat-square&logoColor=white&color=e97627)
+![RuM](https://img.shields.io/badge/RuM-1a1b26?style=flat-square&logoColor=white&color=e97627)
+![LTLf](https://img.shields.io/badge/LTLf-1a1b26?style=flat-square&logoColor=white&color=e97627)
 
-## ✦ Projects
+**ml & data** &nbsp;
+![Python](https://img.shields.io/badge/Python-1a1b26?style=flat-square&logo=python&logoColor=ffd43b)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1a1b26?style=flat-square&logo=scikitlearn&logoColor=f89939)
+![Flower](https://img.shields.io/badge/Flower-1a1b26?style=flat-square&logoColor=white&color=d63aff)
+![Jupyter](https://img.shields.io/badge/Jupyter-1a1b26?style=flat-square&logo=jupyter&logoColor=f37626)
 
-| Project | Description | Topic |
+**writing & tooling** &nbsp;
+![LaTeX](https://img.shields.io/badge/LaTeX-1a1b26?style=flat-square&logo=latex&logoColor=008080)
+![Git](https://img.shields.io/badge/Git-1a1b26?style=flat-square&logo=git&logoColor=f05032)
+
+
+</div>
+
+## `~/projects`
+
+| repo | what it does | tags |
 |---|---|---|
-| [**lpad\_compl**](https://github.com/bovaristEliza/lpad_compl) | Compliance checking via Labelled Probabilistic Logic Programs | `PLP` `Process Mining` `Compliance` |
-| [**AIXIA2024**](https://github.com/bovaristEliza/AIXIA2024) | Logic-based probabilistic declarative process mining | `Declarative PM` `Logic` `Uncertainty` |
-| [**AIME2025**](https://github.com/bovaristEliza/AIME2025) | Interpretable AI for medical decision support | `Medical AI` `Explainability` `Healthcare` |
-| [**pascal\_cchecking**](https://github.com/bovaristEliza/pascal_cchecking) | Process constraint mining with PASCAL | `Constraint Mining` `Event Logs` |
-| [**flower\_itadata2**](https://github.com/FraResca/flower_itadata2) | Federated learning experiments with Flower | `Federated Learning` `Privacy` `ML` |
+| [**ProbConform**](https://github.com/bovaristEliza/probconform) | Probabilistic conformance checking for uncertain event logs and probabilistic Declare specs, via possible-world generation + NegDis | `Conformance` · `Uncertainty` · `Declare` |
+| [**AIXIA2024**](https://github.com/bovaristEliza/AIXIA2024) | Logic-based probabilistic declarative process mining | `Declarative PM` · `Uncertainty` |
+| [**AIME2025**](https://github.com/bovaristEliza/AIME2025) | Interpretable AI for medical decision support | `Medical AI` · `XAI` |
+| [**pascal_cchecking**](https://github.com/bovaristEliza/pascal_cchecking) | Process constraint mining with PASCAL | `Constraint Mining` · `Event Logs` |
+| [**flower_itadata2**](https://github.com/FraResca/flower_itadata2) | Federated learning experiments with Flower | `Federated Learning` · `Privacy` |
+
+## `~/stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=bovaristEliza&show_icons=true&hide=stars&hide_border=true&theme=tokyonight&title_color=a855f7&icon_color=7c3aed&bg_color=1a1b26" height="165" alt="stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bovaristEliza&layout=compact&hide_border=true&theme=tokyonight&title_color=a855f7&bg_color=1a1b26" height="165" alt="langs"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bovaristEliza&hide_border=true&theme=tokyonight&ring=a855f7&fire=c084fc&currStreakLabel=a855f7&background=1a1b26" alt="streak"/>
+
+</div>
 
 ---
 
-## ✦ GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bovaristEliza&amp;show_icons=true&amp;hide=stars&amp;hide_border=true&amp;title_color=c084fc&amp;icon_color=a855f7&amp;text_color=555555&amp;ring_color=7c3aed" height="165" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bovaristEliza&amp;layout=compact&amp;hide_border=true&amp;title_color=c084fc&amp;text_color=555555" height="165" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bovaristEliza&amp;hide_border=true&amp;ring=7c3aed&amp;fire=c084fc&amp;currStreakLabel=c084fc&amp;sideLabels=555555&amp;currStreakNum=333333&amp;sideNums=333333&amp;dates=999999" alt="GitHub Streak"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:c084fc,50:7c3aed,100:4a0080&amp;height=100&amp;section=footer&amp;fontSize=14&amp;fontColor=ffffff&amp;text=Thursday%2C%20what%20a%20concept!&amp;fontAlignY=65&amp;animation=fadeIn" alt="footer"/>
-</p>
+<div align="center">
+<sub><code>EOF</code> · built with the right amount of purple</sub>
+</div>
