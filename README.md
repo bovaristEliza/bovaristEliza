@@ -2,8 +2,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=600&height=60&lines=Michela+Vespa;PhD+%40+University+of+Ferrara;process+mining+%E2%88%A9+probability+%E2%88%A9+logic" alt="typing header"/>
 
-<p><a href="https://ai.unife.it/team/michela-vespa-msc"><img src="https://img.shields.io/badge/AI@UniFE-1a1b26?style=for-the-badge&labelColor=1a1b26&color=7c3aed" alt="lab"/></a> <a href="https://orcid.org/0009-0004-4350-8151"><img src="https://img.shields.io/badge/ORCID-1a1b26?style=for-the-badge&logo=orcid&logoColor=A6E22E&color=1a1b26" alt="orcid"/></a> <a href="https://www.linkedin.com/in/michela-vespa-317317227/"><img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=58a6ff&color=1a1b26" alt="linkedin"/></a> <img src="https://komarev.com/ghpvc/?username=bovaristEliza&style=for-the-badge&color=7c3aed&label=VISITORS&labelColor=1a1b26" alt="views"/></p>
-
+<p align="center">
+<a href="https://ai.unife.it/team/michela-vespa-msc"><img src="https://img.shields.io/badge/AI@UniFE-1a1b26?style=for-the-badge&labelColor=1a1b26&color=7c3aed" alt="lab"/></a>&nbsp;<a href="https://orcid.org/0009-0004-4350-8151"><img src="https://img.shields.io/badge/ORCID-1a1b26?style=for-the-badge&logo=orcid&logoColor=A6E22E&color=1a1b26" alt="orcid"/></a>&nbsp;<a href="https://www.linkedin.com/in/michela-vespa-317317227/"><img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=58a6ff&color=1a1b26" alt="linkedin"/></a>&nbsp;<img src="https://komarev.com/ghpvc/?username=bovaristEliza&style=for-the-badge&color=7c3aed&label=VISITORS&labelColor=1a1b26" alt="views"/>
+</p>
 <h3><em>Uncertainty,</em></h3>
 <img src="russian-doll.gif" width="400" alt="concept"/>
 </div>
