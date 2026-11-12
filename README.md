@@ -53,7 +53,7 @@ I work where **process mining**, **probabilistic reasoning**, and **declarative 
  
 </div>
 
-## IV · opera
+## III · opera
  
 | opus | quid facit | signa |
 |---|---|---|
@@ -64,7 +64,7 @@ I work where **process mining**, **probabilistic reasoning**, and **declarative 
 | [**flower_itadata2**](https://github.com/FraResca/flower_itadata2) | Federated learning experiments with Flower | `Federated Learning` · `Privacy` |
 <!-- | [**grimoire**](LINK) | Logic programming, after Lloyd, written as a grimoire | `Logic` · `Teaching` | -->
  
-## V · auguria 
+## IV · auguria 
  
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=bovaristEliza&show_icons=true&hide=stars&hide_border=true&theme=tokyonight&title_color=a855f7&icon_color=7c3aed&text_color=c4b5fd&bg_color=0d0b14" height="165" alt="stats"/>
